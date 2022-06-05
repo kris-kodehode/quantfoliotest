@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/quantfoliotest/static/css/main.2152a08a.css",
-    "main.js": "/quantfoliotest/static/js/main.11955f2a.js",
+    "main.js": "/quantfoliotest/static/js/main.54140754.js",
     "index.html": "/quantfoliotest/index.html",
     "main.2152a08a.css.map": "/quantfoliotest/static/css/main.2152a08a.css.map",
-    "main.11955f2a.js.map": "/quantfoliotest/static/js/main.11955f2a.js.map"
+    "main.54140754.js.map": "/quantfoliotest/static/js/main.54140754.js.map"
   },
   "entrypoints": [
     "static/css/main.2152a08a.css",
-    "static/js/main.11955f2a.js"
+    "static/js/main.54140754.js"
   ]
 }
