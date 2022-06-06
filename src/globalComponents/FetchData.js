@@ -51,31 +51,4 @@ const FetchData = () => {
 }
 
 
-
-
-/* const formatData = (input) => {
-        let data = []
-        let volume = []
-
-        input.forEach(e => {
-            data.push([
-                parseFloat(new Date(e.datetime).getDate()),
-                parseFloat(e.open),
-                parseFloat(e.high),
-                parseFloat(e.low),
-                parseFloat(e.close)
-            ])
-            volume.push([
-                parseFloat(new Date(e.datetime).getDate()),
-                parseFloat(e.volume)
-            ])
-        })
-        return {
-            data: data,
-            volume:volume
-        }
-    } */
-
-
-
 export default FetchData
